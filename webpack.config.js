@@ -7,7 +7,7 @@ const isDev = process.env.NODE_ENV === 'development';
 const webpack = require('webpack');
 
 module.exports = {
-    entry: { main: './script.js' },
+    entry: { main: './src/script.js' },
     output: {
         path: path.resolve(__dirname, 'dist'),
         filename: 'main.[chunkhash].js'
@@ -58,7 +58,7 @@ module.exports = {
         new WebpackMd5Hash(),
         new HtmlWebpackPlugin({
             inject: false,
-            template: './index.html',
+            template: './src/index.html',
             filename: 'index.html'
           }),
         new webpack.DefinePlugin({
