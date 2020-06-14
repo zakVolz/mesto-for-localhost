@@ -1,4 +1,4 @@
-class Widget {
+export class Widget {
 	constructor(widget) {
 		this.widget = widget;
 	}

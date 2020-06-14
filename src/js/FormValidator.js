@@ -1,4 +1,4 @@
-class FormValidator {
+export class FormValidator {
 	constructor(objectErrors) {
 		this.objectErrors = objectErrors;
 		this.validate = this.validate.bind(this);
