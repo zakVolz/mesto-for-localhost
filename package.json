@@ -1,7 +1,7 @@
 {
   "name": "mesto",
   "version": "0.0.2",
-  "description": "https://zakvolz.github.io/\r # zakVolz.github.io",
+  "description": "https://zakvolz.github.io/mesto-for-localhost/\r # zakVolz.github.io",
   "main": "src/script.js",
   "scripts": {
     "build": "cross-env NODE_ENV=production rimraf dist && webpack --mode production",
