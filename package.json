@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zakVolz/mesto.git"
+    "url": "git+https://github.com/zakVolz/mesto-for-localhost.git"
   },
   "author": "zakVolz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zakVolz/mesto/issues"
+    "url": "https://github.com/zakVolz/mesto-for-localhost/issues"
   },
-  "homepage": "https://github.com/zakVolz/mesto#readme",
+  "homepage": "https://github.com/zakVolz/mesto-for-localhost#readme",
   "keywords": [],
   "devDependencies": {
     "@babel/cli": "^7.8.4",
