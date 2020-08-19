@@ -55,7 +55,7 @@ const objectErrors = {
 
 // Данные для авторизации
 const token = '2a99eabc-8064-4ad5-93d7-0eee6d1d7fb0';
-const baseUrl = 'https://praktikum.tk/cohort10';
+const baseUrl = 'https://nomoreparties.co/cohort10';
 
 // API
 const api = new Api({
